@@ -4,7 +4,9 @@
 - 🌍 Desarrollando mi página web. https://LisandroB.github.io.
 - 📨 Mi contacto: brasolinlisandro0@gmail.com -- lisandrobrasolin@gmail.com.
 
+
 ![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lisandrob)
+![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact)
 
 
 <!--
