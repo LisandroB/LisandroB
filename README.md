@@ -12,9 +12,9 @@
 <details>
 <summary>Mis Stats</summary>
 
-![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lisandrob&theme=dark)
+![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lisandrob&theme=dark&title_color=black)
 
-![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact&theme=dark)
+![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact&theme=dark&title_color=black)
 
 
 </details>  
