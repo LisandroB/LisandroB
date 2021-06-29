@@ -6,7 +6,7 @@
 
 
 ![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lisandrob&theme=dark)
-![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact)
+![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact&theme=dark)
 
 
 <!--
