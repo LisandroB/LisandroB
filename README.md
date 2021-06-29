@@ -8,6 +8,11 @@
 ![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lisandrob&theme=dark)
 ![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact&theme=dark)
 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
 
 <!--
 **LisandroB/LisandroB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
