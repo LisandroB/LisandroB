@@ -1,5 +1,5 @@
 ###
-![asd](https://media1.tenor.com/images/546fa09f8d029f48a2e404e2e92d845e/tenor.gif?itemid=15692366)
+![asd](https://c.tenor.com/FnNvyagWO8AAAAAd/cat-magic-cat-go-bye.gif)
 <details>
 <summary>Bienvenido! 👋</summary>
   
