@@ -1,26 +1,11 @@
 ###
-![asd](https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif)
-<details>
-<summary>Bienvenido! 👋</summary>
+hola! Me llamo Lisandro Brasolin, soy estudiante de ingeniería en informática y desarrollador de software
+
+- 📝 actualmente estudiando ingeniería en informática en universidad de mendoza.
+- 🌱 mejorando en Python/Front-End JS - aprendiendo C#.
+- 🌍 desarrollando mi página web. https://LisandroB.github.io.
+- 📨 mi contacto: lisandrobrasolin@gmail.com.
   
-- 📝 Actualmente estudiando Ingeniería en Informática en Universidad de Mendoza.
-- 🌱 Aprendiendo C#, mejorando en CSS/Sass, MySQL/Sequelize, Front-End JS.
-- 🌍 Desarrollando mi página web. https://LisandroB.github.io.
-- 📨 Mi contacto: brasolinlisandro0@gmail.com -- lisandrobrasolin@gmail.com.
-</details>
-
-<details>
-<summary>Mis Stats</summary>
-
-![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=lisandrob&theme=dark&title_color=black)
-
-![Lisandro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandrob&layout=compact&theme=dark&title_color=black)
-
-
-</details>  
-
-
-
 <!--
 **LisandroB/LisandroB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
