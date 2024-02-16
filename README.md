@@ -1,5 +1,5 @@
 ###
-hola! Me llamo Lisandro Brasolin, soy estudiante de ingeniería en informática y desarrollador de software
+hola! me llamo Lisandro Brasolin, soy estudiante de ingeniería en informática y desarrollador de software
 
 - 📝 actualmente estudiando ingeniería en informática en universidad de mendoza.
 - 🌱 mejorando en Python/Front-End JS - aprendiendo C#.
