@@ -1,11 +1,11 @@
 ###
-hola! me llamo Lisandro Brasolin, soy estudiante de ingeniería en informática, desarrollador de software y analista de ciberseguridad jr
+hi, i'm lisandro
+i'm a jr. cybersecurity analyst currently studying computer science and engineering at university of mendoza
+i'm also a software and full-stack web developer
 
-- 📝 actualmente estudiando ingeniería en informática en universidad de mendoza.
-- 🌱 mejorando en Python/Front-End JS - aprendiendo C#.
-- 🌍 desarrollando mi página web. https://LisandroB.github.io.
-- 📨 mi contacto: lisandrobrasolin@gmail.com.
-  
+thx for reading!
+contact: lisandrobrasolin@gmail.com
+
 <!--
 **LisandroB/LisandroB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
