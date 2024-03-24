@@ -1,9 +1,8 @@
-###
-hi, i'm lisandro
-i'm a jr. cybersecurity analyst currently studying computer science and engineering at university of mendoza
-i'm also a software and full-stack web developer
+hi, i'm lisandro  
+i'm a jr. cybersecurity analyst currently studying computer science and engineering at university of mendoza  
+i'm also a software and full-stack web developer  
 
-thx for reading!
+thx for reading! :)
 contact: lisandrobrasolin@gmail.com
 
 <!--
